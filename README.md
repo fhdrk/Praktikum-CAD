@@ -22,10 +22,6 @@ Project ini mencakup pembuatan beberapa part dasar menggunakan SolidWorks.
 
 \- `parts/` → File part SolidWorks (.SLDPRT)
 
-\- `assembly/` → File assembly (jika ada)
-
-\- `images/` → Screenshot atau preview desain
-
 
 
 ---
