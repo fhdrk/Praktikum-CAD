@@ -1,10 +1,10 @@
-\# Praktikum CAD
+\# Praktikum CAD \& CAM
 
 
 
 \## 📌 Deskripsi
 
-Repository ini berisi file SolidWorks untuk tugas Praktikum CAD.
+Repository ini berisi file SolidWorks untuk tugas Praktikum CAD \& CAM.
 
 
 
@@ -40,5 +40,5 @@ Project ini mencakup pembuatan beberapa part dasar menggunakan SolidWorks.
 
 \## 👨‍🎓 Author
 
-Muhammad Fahda
+Muhammad Fahda Adrik Annajih
 
