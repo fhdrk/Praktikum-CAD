@@ -1,4 +1,4 @@
-# Praktikum CAD
+# Praktikum CAD & CAM
 
 ## 📌 Deskripsi
 Repository ini berisi file SolidWorks untuk tugas Praktikum CAD.
@@ -26,5 +26,4 @@ Muhammad Fahda Adrik Annajih
 Teknologi Rekayasa Otomasi  
 Universitas Diponegoro
 
----
 
