@@ -22,7 +22,7 @@ Project ini mencakup pembuatan beberapa part dasar menggunakan SolidWorks.
 ---
 
 ## 👨‍🎓 Author
-Muhammad Fahda Adrik Annajih
+Muhammad Fahda Adrik Annajih  
 Teknologi Rekayasa Otomasi  
 Universitas Diponegoro
 
